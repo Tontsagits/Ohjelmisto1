@@ -12,5 +12,7 @@ luodit = float(input("Anna luodit: "))
 print("Massa nykymittojen mukaan:")
 massa = leiviskat*20*32*13.3 + naulat*32*13.3 + luodit*13.3
 print(massa) # massan tarkastus
-print(f"{massa/1000:.0f} kilogrammaa ja {((massa/1000) - int(massa/1000)) * 1000:.2f} grammaa.")
-
+# vähennetään koko massasta kokonaiset kilot pois
+# print(f"{massa/1000:.0f} kilogrammaa ja {((massa/1000) - int(massa/1000)) * 1000:.2f} grammaa.")
+# sama jakojäännös operaattorilla
+print(f"{massa/1000:.0f} kilogrammaa ja {massa % 1000:.2f} grammaa.")
