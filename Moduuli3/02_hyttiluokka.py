@@ -1,4 +1,4 @@
-# Moduuli 3 - Tehtävä 1 - Hyttiluokka, if elif else
+# Moduuli 3 - Tehtävä 2 - Hyttiluokka, if elif else
 
 hyttiluokka = str.lower(input('Anna hyttiluokka: '))
 
