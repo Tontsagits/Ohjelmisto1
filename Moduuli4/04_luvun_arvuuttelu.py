@@ -1,4 +1,5 @@
-# Ohjelmisto 1 - Moduuli 4 - Tehtävä 3 - Pienin ja suurin luku annetuista
+# Ohjelmisto 1 - Moduuli 4 - Tehtävä 4 - Pienin ja suurin luku annetuista
+
 from random import randint
 
 luku = randint(1, 10)
