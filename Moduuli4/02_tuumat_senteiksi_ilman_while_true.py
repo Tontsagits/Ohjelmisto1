@@ -1,4 +1,4 @@
-# Ohjelmisto 1 - Moduuli 4 - Tehtävä 2 - Tuumat senteiksi, ilman while true booleania
+# Ohjelmisto 1 - Moduuli 4 - Tehtävä 2 - Tuumat senteiksi, ilman while true boolean
 
 tuumat = 0
 while tuumat >= 0:
