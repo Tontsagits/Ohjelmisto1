@@ -89,7 +89,7 @@
       <workItem from="1724312886981" duration="3352000" />
       <workItem from="1724825125964" duration="799000" />
       <workItem from="1724827934977" duration="3735000" />
-      <workItem from="1724836965064" duration="5174000" />
+      <workItem from="1724836965064" duration="5557000" />
     </task>
     <task id="LOCAL−00001" summary="Updated">
       <option name="closed" value="true" />
@@ -224,7 +224,21 @@
       <option name="presentableId" value="LOCAL−00019" />
       <updated>1724842156291</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL−00020" summary="updated comment heading">
+      <option name="closed" value="true" />
+      <created>1724842543869</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1724842543869</updated>
+    </task>
+    <task id="LOCAL−00021" summary="new">
+      <option name="closed" value="true" />
+      <created>1724842560032</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1724842560032</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +261,7 @@
     <MESSAGE value="snadi laskennallinen muokkaus" />
     <MESSAGE value="updated heading" />
     <MESSAGE value="solved" />
+    <MESSAGE value="updated comment heading" />
     <MESSAGE value="new" />
     <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
