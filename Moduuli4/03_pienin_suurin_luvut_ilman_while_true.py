@@ -15,10 +15,8 @@ while luku != '':
         suurin = luku
         alku += 1
     if len(luku) == 0:
-        print('Heippa!')
         break
     if luku == ' ':
-        print('Heippa!')
         break
     elif luku < pienin:
         pienin = luku
