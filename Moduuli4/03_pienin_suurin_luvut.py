@@ -13,6 +13,9 @@ while True:
     if len(luku) == 0:
         print('Heippa!')
         break
+    if luku == ' ':
+        print('Heippa!')
+        break
     if luku < pienin:
         pienin = luku
     if luku > suurin:
