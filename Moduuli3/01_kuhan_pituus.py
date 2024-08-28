@@ -1,4 +1,4 @@
-# Moduuli3 - Tehtävä 1 - Kuhan pituus, ehtolause if
+# Moduuli 3 - Tehtävä 1 - Kuhan pituus, ehtolause if
 
 
 kuhan_pituus = float(input('Anna Kuhan pituus (cm): '))
