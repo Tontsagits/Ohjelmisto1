@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/Moduuli4/04_luvun_arvuuttelu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="new" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +53,7 @@
     "Python.03_pienin_suurin_luvut.executor": "Run",
     "Python.03_suorakulmion_tiedot.executor": "Run",
     "Python.04_karkausvuosi.executor": "Run",
+    "Python.04_luvun_arvuuttelu.executor": "Run",
     "Python.05_keskiaikaiset_mitat.executor": "Run",
     "Python.06_numeroiden_arpominen.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -91,7 +89,7 @@
       <workItem from="1724312886981" duration="3352000" />
       <workItem from="1724825125964" duration="799000" />
       <workItem from="1724827934977" duration="3735000" />
-      <workItem from="1724836965064" duration="4657000" />
+      <workItem from="1724836965064" duration="5174000" />
     </task>
     <task id="LOCAL−00001" summary="Updated">
       <option name="closed" value="true" />
@@ -219,7 +217,14 @@
       <option name="presentableId" value="LOCAL−00018" />
       <updated>1724841274168</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL−00019" summary="new">
+      <option name="closed" value="true" />
+      <created>1724842156291</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1724842156291</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,5 +263,6 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto1$04_karkausvuosi.coverage" NAME="04_karkausvuosi Coverage Results" MODIFIED="1724839005266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_hello_name.coverage" NAME="01_hello_name Coverage Results" MODIFIED="1724313488869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$05_keskiaikaiset_mitat.coverage" NAME="05_keskiaikaiset_mitat Coverage Results" MODIFIED="1724315893361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$04_luvun_arvuuttelu.coverage" NAME="04_luvun_arvuuttelu Coverage Results" MODIFIED="1724842120568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
   </component>
 </project>
