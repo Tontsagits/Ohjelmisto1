@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="updated ilman While True">
-      <change beforePath="$PROJECT_DIR$/Moduuli4/05_kt_ja_ss_kysely.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli4/05_kt_ja_ss_kysely.py" afterDir="false" />
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="solved with break">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli4/06_piin_likiarvo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli4/06_piin_likiarvo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,35 +44,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01_hello_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_kolmellajaollisetluvut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_kuhan_pituus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_hyttiluokka.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_tuumat_senteiksi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_tuumat_senteiksi_ilman_while_true.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_ympyran_pinta_ala.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_hemoglobiiniarvo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_pienin_suurin_luvut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_pienin_suurin_luvut_ilman_while_true.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_suorakulmion_tiedot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_karkausvuosi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_luvun_arvuuttelu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_luvun_arvuuttelu_ilman_while_true.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_keskiaikaiset_mitat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_numeroiden_arpominen.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_hello_name.executor": "Run",
+    "Python.01_kolmellajaollisetluvut.executor": "Run",
+    "Python.01_kuhan_pituus.executor": "Run",
+    "Python.02_hyttiluokka.executor": "Run",
+    "Python.02_tuumat_senteiksi.executor": "Run",
+    "Python.02_tuumat_senteiksi_ilman_while_true.executor": "Run",
+    "Python.02_ympyran_pinta_ala.executor": "Run",
+    "Python.03_hemoglobiiniarvo.executor": "Run",
+    "Python.03_pienin_suurin_luvut.executor": "Run",
+    "Python.03_pienin_suurin_luvut_ilman_while_true.executor": "Run",
+    "Python.03_suorakulmion_tiedot.executor": "Run",
+    "Python.04_karkausvuosi.executor": "Run",
+    "Python.04_luvun_arvuuttelu.executor": "Run",
+    "Python.04_luvun_arvuuttelu_ilman_while_true.executor": "Run",
+    "Python.05_keskiaikaiset_mitat.executor": "Run",
+    "Python.05_kt_ja_ss_kysely.executor": "Run",
+    "Python.06_numeroiden_arpominen.executor": "Run",
+    "Python.06_piin_likiarvo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,7 +99,7 @@
       <workItem from="1724827934977" duration="3735000" />
       <workItem from="1724836965064" duration="8587000" />
       <workItem from="1724855253467" duration="3560000" />
-      <workItem from="1724912803350" duration="2270000" />
+      <workItem from="1724912803350" duration="3907000" />
     </task>
     <task id="LOCAL−00001" summary="Updated">
       <option name="closed" value="true" />
@@ -350,7 +353,14 @@
       <option name="presentableId" value="LOCAL−00036" />
       <updated>1724915143045</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL−00037" summary="solved with break">
+      <option name="closed" value="true" />
+      <created>1724915883283</created>
+      <option name="number" value="LOCAL−00037" />
+      <option name="presentableId" value="LOCAL−00037" />
+      <updated>1724915883283</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,9 +391,11 @@
     <MESSAGE value="updated paremmat if lauseet" />
     <MESSAGE value="updated while ilman True booleania" />
     <MESSAGE value="updated ilman While True" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated ilman While True" />
+    <MESSAGE value="solved with break" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved with break" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$05_kt_ja_ss_kysely.coverage" NAME="05_kt_ja_ss_kysely Coverage Results" MODIFIED="1724915828596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_hemoglobiiniarvo.coverage" NAME="03_hemoglobiiniarvo Coverage Results" MODIFIED="1724838213483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$06_numeroiden_arpominen.coverage" NAME="06_numeroiden_arpominen Coverage Results" MODIFIED="1724313103677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_tuumat_senteiksi.coverage" NAME="02_tuumat_senteiksi Coverage Results" MODIFIED="1724840096207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
@@ -391,6 +403,7 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_ympyran_pinta_ala.coverage" NAME="02_ympyran_pinta_ala Coverage Results" MODIFIED="1724313358283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$04_luvun_arvuuttelu_ilman_while_true.coverage" NAME="04_luvun_arvuuttelu_ilman_while_true Coverage Results" MODIFIED="1724915039320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_pienin_suurin_luvut.coverage" NAME="03_pienin_suurin_luvut Coverage Results" MODIFIED="1724914427961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$06_piin_likiarvo.coverage" NAME="06_piin_likiarvo Coverage Results" MODIFIED="1724916765328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_kuhan_pituus.coverage" NAME="01_kuhan_pituus Coverage Results" MODIFIED="1724834735833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_kolmellajaollisetluvut.coverage" NAME="01_kolmellajaollisetluvut Coverage Results" MODIFIED="1724845484088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_pienin_suurin_luvut_ilman_while_true.coverage" NAME="03_pienin_suurin_luvut_ilman_while_true Coverage Results" MODIFIED="1724914865177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
