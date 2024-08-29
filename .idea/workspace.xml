@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="new">
-      <change beforePath="$PROJECT_DIR$/Moduuli4/03_pienin_suurin_luvut_ilman_while_true.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli4/03_pienin_suurin_luvut_ilman_while_true.py" afterDir="false" />
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,35 +43,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01_hello_name.executor": "Run",
-    "Python.01_kolmellajaollisetluvut.executor": "Run",
-    "Python.01_kuhan_pituus.executor": "Run",
-    "Python.02_hyttiluokka.executor": "Run",
-    "Python.02_tuumat_senteiksi.executor": "Run",
-    "Python.02_tuumat_senteiksi_ilman_while_true.executor": "Run",
-    "Python.02_ympyran_pinta_ala.executor": "Run",
-    "Python.03_hemoglobiiniarvo.executor": "Run",
-    "Python.03_pienin_suurin_luvut.executor": "Run",
-    "Python.03_pienin_suurin_luvut_ilman_while_true.executor": "Run",
-    "Python.03_suorakulmion_tiedot.executor": "Run",
-    "Python.04_karkausvuosi.executor": "Run",
-    "Python.04_luvun_arvuuttelu.executor": "Run",
-    "Python.04_luvun_arvuuttelu_ilman_while_true.executor": "Run",
-    "Python.05_keskiaikaiset_mitat.executor": "Run",
-    "Python.06_numeroiden_arpominen.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_hello_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_kolmellajaollisetluvut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_kuhan_pituus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_hyttiluokka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_tuumat_senteiksi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_tuumat_senteiksi_ilman_while_true.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_ympyran_pinta_ala.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_hemoglobiiniarvo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_pienin_suurin_luvut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_pienin_suurin_luvut_ilman_while_true.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_suorakulmion_tiedot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_karkausvuosi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_luvun_arvuuttelu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_luvun_arvuuttelu_ilman_while_true.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_keskiaikaiset_mitat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_numeroiden_arpominen.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,7 +95,8 @@
       <workItem from="1724825125964" duration="799000" />
       <workItem from="1724827934977" duration="3735000" />
       <workItem from="1724836965064" duration="8587000" />
-      <workItem from="1724855253467" duration="3335000" />
+      <workItem from="1724855253467" duration="3560000" />
+      <workItem from="1724912803350" duration="672000" />
     </task>
     <task id="LOCAL−00001" summary="Updated">
       <option name="closed" value="true" />
@@ -307,7 +308,21 @@
       <option name="presentableId" value="LOCAL−00030" />
       <updated>1724858549357</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL−00031" summary="updated">
+      <option name="closed" value="true" />
+      <created>1724858701457</created>
+      <option name="number" value="LOCAL−00031" />
+      <option name="presentableId" value="LOCAL−00031" />
+      <updated>1724858701457</updated>
+    </task>
+    <task id="LOCAL−00032" summary="updated">
+      <option name="closed" value="true" />
+      <created>1724858828729</created>
+      <option name="number" value="LOCAL−00032" />
+      <option name="presentableId" value="LOCAL−00032" />
+      <updated>1724858828729</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,7 +348,8 @@
     <MESSAGE value="updated comment heading" />
     <MESSAGE value="updated muuttuja luku alkuarvo" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_hemoglobiiniarvo.coverage" NAME="03_hemoglobiiniarvo Coverage Results" MODIFIED="1724838213483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
