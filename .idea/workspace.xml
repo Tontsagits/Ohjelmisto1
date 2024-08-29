@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="updated while ilman True booleania" />
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="updated ilman While True">
+      <change beforePath="$PROJECT_DIR$/Moduuli4/05_kt_ja_ss_kysely.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli4/05_kt_ja_ss_kysely.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +96,7 @@
       <workItem from="1724827934977" duration="3735000" />
       <workItem from="1724836965064" duration="8587000" />
       <workItem from="1724855253467" duration="3560000" />
-      <workItem from="1724912803350" duration="1949000" />
+      <workItem from="1724912803350" duration="2270000" />
     </task>
     <task id="LOCAL−00001" summary="Updated">
       <option name="closed" value="true" />
@@ -341,7 +343,14 @@
       <option name="presentableId" value="LOCAL−00035" />
       <updated>1724914904928</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL−00036" summary="updated ilman While True">
+      <option name="closed" value="true" />
+      <created>1724915143045</created>
+      <option name="number" value="LOCAL−00036" />
+      <option name="presentableId" value="LOCAL−00036" />
+      <updated>1724915143045</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,7 +380,8 @@
     <MESSAGE value="updated with continue option" />
     <MESSAGE value="updated paremmat if lauseet" />
     <MESSAGE value="updated while ilman True booleania" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated while ilman True booleania" />
+    <MESSAGE value="updated ilman While True" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated ilman While True" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_hemoglobiiniarvo.coverage" NAME="03_hemoglobiiniarvo Coverage Results" MODIFIED="1724838213483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
