@@ -6,18 +6,21 @@ alku = 0
 
 while True:
     luku = input('Anna luku (tyhjä lopettaa): ')
-    if alku == 0:
+    if alku == 0 and len(luku) != 0 and luku != ' ': # alustetaan muuttujat ensimmäisellä käyttäjän syöttämällä luvulla
         pienin = luku
         suurin = luku
-        alku += 1
-    if len(luku) == 0:
-        print('Heippa!')
+        alku += 1 # tässä käydään vain yhden kerran ohjelmassa
+    if len(luku) == 0: # jos käyttäjä syöttää ei mitään, lopetaan
         break
-    if luku == ' ':
-        print('Heippa!')
+    if luku == ' ': # jos käyttäjä syöttää välilyönnin, lopetetaan
         break
-    if luku < pienin:
+    if luku < pienin: # jos uusi syötetty luku on pienempi
         pienin = luku
-    if luku > suurin:
+    if luku > suurin: # jos uusi syötetty luku on suurempi
         suurin = luku
-print(f'Suurin luku {suurin} ja pienin luku on {pienin}.')
+# tulostetaan lopputulos vain jos käyttäjä on syöttänyt jotain käypiä arvoja
+# jos ei ole niin tulostetaan vain heippa
+if len(pienin) != 0 and len(suurin) != 0:
+    print(f'Suurin luku {suurin} ja pienin luku on {pienin}.')
+else:
+    print('Heippa!')
