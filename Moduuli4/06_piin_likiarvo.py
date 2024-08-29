@@ -8,7 +8,7 @@ Sen ympärille piirretään pienin mahdollinen neliö B
 siten, että ympyrä A jää kokonaan neliön sisäpuolelle.
 '''
 
-import random
+from random import uniform
 
 while True:
     # arvottavien koordinaattien lukumäärä
@@ -22,8 +22,8 @@ while True:
     # toteutetaan laskenta
     while kerrat < N:
         # arvotaan pisteiden x ja y koordinaatteja
-        x = random.uniform(0,1)
-        y = random.uniform(0,1)
+        x = uniform(0,1)
+        y = uniform(0,1)
         # selvitetään osuuko piste ympyrän A sisälle
         if x ** 2 + y ** 2 < 1:
             # jos osuu kasvatetaan osumien määrää yhdellä
