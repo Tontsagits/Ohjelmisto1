@@ -3,7 +3,9 @@
 from random import randint
 
 maara = int(input('Montaako arpakuutiota heitetään? '))
+summa = 0
 
-for i in range(maara):
-    noppa = randint(1,6)
-    print(f'noppa näyttää luku: {noppa}')
+for _ in range(maara):
+    summa += randint(1,6)
+
+print(f'summa: {summa}')
