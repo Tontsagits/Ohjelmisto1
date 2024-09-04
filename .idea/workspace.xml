@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Added tavarat function">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli5/03_onko_alkuluku.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli5/03_onko_alkuluku.py" afterDir="false" />
-    </list>
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Fixed heading" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,21 +113,7 @@
       <workItem from="1725361982109" duration="1387000" />
       <workItem from="1725430012996" duration="5243000" />
       <workItem from="1725436922568" duration="3001000" />
-      <workItem from="1725442810841" duration="957000" />
-    </task>
-    <task id="LOCAL−00008" summary="new">
-      <option name="closed" value="true" />
-      <created>1724834757811</created>
-      <option name="number" value="LOCAL−00008" />
-      <option name="presentableId" value="LOCAL−00008" />
-      <updated>1724834757811</updated>
-    </task>
-    <task id="LOCAL−00009" summary="new">
-      <option name="closed" value="true" />
-      <created>1724835267482</created>
-      <option name="number" value="LOCAL−00009" />
-      <option name="presentableId" value="LOCAL−00009" />
-      <updated>1724835267482</updated>
+      <workItem from="1725442810841" duration="1624000" />
     </task>
     <task id="LOCAL−00010" summary="updated heading">
       <option name="closed" value="true" />
@@ -461,7 +444,21 @@
       <option name="presentableId" value="LOCAL−00056" />
       <updated>1725438799099</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL−00057" summary="Added tavarat function">
+      <option name="closed" value="true" />
+      <created>1725444408264</created>
+      <option name="number" value="LOCAL−00057" />
+      <option name="presentableId" value="LOCAL−00057" />
+      <updated>1725444408264</updated>
+    </task>
+    <task id="LOCAL−00058" summary="Fixed heading">
+      <option name="closed" value="true" />
+      <created>1725444438136</created>
+      <option name="number" value="LOCAL−00058" />
+      <option name="presentableId" value="LOCAL−00058" />
+      <updated>1725444438136</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated" />
     <MESSAGE value="muokattu muuttujan nimeä" />
     <MESSAGE value="snadi laskennallinen muokkaus" />
     <MESSAGE value="updated heading" />
@@ -504,7 +500,8 @@
     <MESSAGE value="Bug fixed" />
     <MESSAGE value="Added 2 new functions" />
     <MESSAGE value="Added tavarat function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added tavarat function" />
+    <MESSAGE value="Fixed heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed heading" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_arpakuutiot.coverage" NAME="01_arpakuutiot Coverage Results" MODIFIED="1725362611784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
@@ -516,7 +513,7 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_ympyran_pinta_ala.coverage" NAME="02_ympyran_pinta_ala Coverage Results" MODIFIED="1724313358283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$04_luvun_arvuuttelu_ilman_while_true.coverage" NAME="04_luvun_arvuuttelu_ilman_while_true Coverage Results" MODIFIED="1724915039320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$randint_arpakuutiot_testi.coverage" NAME="randint_arpakuutiot_testi Coverage Results" MODIFIED="1724917911494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
-    <SUITE FILE_PATH="coverage/Ohjelmisto1$03_onko_alkuluku.coverage" NAME="03_onko_alkuluku Coverage Results" MODIFIED="1725433436958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$03_onko_alkuluku.coverage" NAME="03_onko_alkuluku Coverage Results" MODIFIED="1725444364594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_pienin_suurin_luvut.coverage" NAME="03_pienin_suurin_luvut Coverage Results" MODIFIED="1724914427961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$06_piin_likiarvo.coverage" NAME="06_piin_likiarvo Coverage Results" MODIFIED="1725349913156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_kolmellajaollisetluvut.coverage" NAME="01_kolmellajaollisetluvut Coverage Results" MODIFIED="1724845484088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />

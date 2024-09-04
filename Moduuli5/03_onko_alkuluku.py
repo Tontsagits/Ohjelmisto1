@@ -5,11 +5,8 @@ luku = "0"
 testattava = 0
 
 while luku != "" and luku != " ":
-
     luku = input("Anna positiivinen kokonaisluku (tyhjä lopettaa): ")
-
     if luku != "" and luku != " " and luku.isnumeric():
-
         testattava = int(luku)
         if testattava == 1:
             print(f"Luku {testattava} ei ole alkuluku.")
