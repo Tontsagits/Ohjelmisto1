@@ -45,3 +45,17 @@ luku1 = float(input("Anna ensimmäinen luku: "))
 luku2 = float(input("Anna toinen luku: "))
 tulos = neliösumma(luku1, luku2)
 print(f"Lukujen {luku1:.3f} ja {luku2:.3f} neliösumma on {tulos:.3f}.")
+
+# lista funktion parametrina
+
+def inventaario(tavarat):
+    print("Sinulla on seuraavat tavarat:")
+    for t in tavarat:
+        print ("- " + t)
+    return
+
+reppu = ["Vesipullo", "Kartta", "Kompassi", "Puukko", "Taskulamppu", "Eväsrasia", "Viltti", "Makuupussi", "Pehmolelu"]
+inventaario(reppu)
+reppu.append("Linkkuveitsi")
+inventaario(reppu)
+
