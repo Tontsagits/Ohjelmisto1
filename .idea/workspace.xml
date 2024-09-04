@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Solved">
-      <change afterPath="$PROJECT_DIR$/Moduuli6/05_parittomat_pois.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli6/06_pizzan_hinta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +70,10 @@
     "Python.04_luvun_arvuuttelu_ilman_while_true.executor": "Run",
     "Python.05_keskiaikaiset_mitat.executor": "Run",
     "Python.05_kt_ja_ss_kysely.executor": "Run",
+    "Python.05_parittomat_pois.executor": "Run",
     "Python.06_numeroiden_arpominen.executor": "Run",
     "Python.06_piin_likiarvo.executor": "Run",
+    "Python.06_pizzan_hinta.executor": "Run",
     "Python.funktioiden_testausta.executor": "Debug",
     "Python.listat_testausta.executor": "Run",
     "Python.looppien_testausta_for_silmukka_range_funktio.executor": "Run",
@@ -120,14 +123,7 @@
       <workItem from="1725361982109" duration="1387000" />
       <workItem from="1725430012996" duration="5243000" />
       <workItem from="1725436922568" duration="3001000" />
-      <workItem from="1725442810841" duration="5961000" />
-    </task>
-    <task id="LOCAL−00017" summary="new">
-      <option name="closed" value="true" />
-      <created>1724840129885</created>
-      <option name="number" value="LOCAL−00017" />
-      <option name="presentableId" value="LOCAL−00017" />
-      <updated>1724840129885</updated>
+      <workItem from="1725442810841" duration="7175000" />
     </task>
     <task id="LOCAL−00018" summary="new">
       <option name="closed" value="true" />
@@ -465,7 +461,14 @@
       <option name="presentableId" value="LOCAL−00065" />
       <updated>1725448546344</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL−00066" summary="Solved">
+      <option name="closed" value="true" />
+      <created>1725448985398</created>
+      <option name="number" value="LOCAL−00066" />
+      <option name="presentableId" value="LOCAL−00066" />
+      <updated>1725448985398</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,5 +546,7 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_hello_name.coverage" NAME="01_hello_name Coverage Results" MODIFIED="1724313488869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_tuumat_senteiksi_ilman_while_true.coverage" NAME="02_tuumat_senteiksi_ilman_while_true Coverage Results" MODIFIED="1724913900737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$04_luvun_arvuuttelu.coverage" NAME="04_luvun_arvuuttelu Coverage Results" MODIFIED="1724842120568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$05_parittomat_pois.coverage" NAME="05_parittomat_pois Coverage Results" MODIFIED="1725448934224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$06_pizzan_hinta.coverage" NAME="06_pizzan_hinta Coverage Results" MODIFIED="1725450024670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
   </component>
 </project>
