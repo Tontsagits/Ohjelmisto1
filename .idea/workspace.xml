@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Fixed heading" />
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Updated headings">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli5/04_kaupunkien_nimet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli5/04_kaupunkien_nimet.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,46 +44,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01_arpakuutiot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_hello_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_kolmellajaollisetluvut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_kuhan_pituus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_hyttiluokka.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_tuumat_senteiksi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_tuumat_senteiksi_ilman_while_true.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_viisi_suurinta_lukua.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_ympyran_pinta_ala.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_hemoglobiiniarvo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_onko_alkuluku.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_pienin_suurin_luvut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_pienin_suurin_luvut_ilman_while_true.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_suorakulmion_tiedot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_karkausvuosi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_luvun_arvuuttelu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_luvun_arvuuttelu_ilman_while_true.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_keskiaikaiset_mitat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_kt_ja_ss_kysely.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_numeroiden_arpominen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_piin_likiarvo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funktioiden_testausta.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.listat_testausta.executor&quot;: &quot;Run&quot;,
-    &quot;Python.looppien_testausta_for_silmukka_range_funktio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.looppien_testausta_while_for_if_ehto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.randint_arpakuutiot_testi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while_in_while_testaus.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_arpakuutiot.executor": "Run",
+    "Python.01_hello_name.executor": "Run",
+    "Python.01_kolmellajaollisetluvut.executor": "Run",
+    "Python.01_kuhan_pituus.executor": "Run",
+    "Python.02_hyttiluokka.executor": "Run",
+    "Python.02_tuumat_senteiksi.executor": "Run",
+    "Python.02_tuumat_senteiksi_ilman_while_true.executor": "Run",
+    "Python.02_viisi_suurinta_lukua.executor": "Run",
+    "Python.02_ympyran_pinta_ala.executor": "Run",
+    "Python.03_hemoglobiiniarvo.executor": "Run",
+    "Python.03_onko_alkuluku.executor": "Run",
+    "Python.03_pienin_suurin_luvut.executor": "Run",
+    "Python.03_pienin_suurin_luvut_ilman_while_true.executor": "Run",
+    "Python.03_suorakulmion_tiedot.executor": "Run",
+    "Python.04_karkausvuosi.executor": "Run",
+    "Python.04_kaupunkien_nimet.executor": "Run",
+    "Python.04_luvun_arvuuttelu.executor": "Run",
+    "Python.04_luvun_arvuuttelu_ilman_while_true.executor": "Run",
+    "Python.05_keskiaikaiset_mitat.executor": "Run",
+    "Python.05_kt_ja_ss_kysely.executor": "Run",
+    "Python.06_numeroiden_arpominen.executor": "Run",
+    "Python.06_piin_likiarvo.executor": "Run",
+    "Python.funktioiden_testausta.executor": "Debug",
+    "Python.listat_testausta.executor": "Run",
+    "Python.looppien_testausta_for_silmukka_range_funktio.executor": "Run",
+    "Python.looppien_testausta_while_for_if_ehto.executor": "Run",
+    "Python.randint_arpakuutiot_testi.executor": "Run",
+    "Python.while_in_while_testaus.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -113,21 +117,7 @@
       <workItem from="1725361982109" duration="1387000" />
       <workItem from="1725430012996" duration="5243000" />
       <workItem from="1725436922568" duration="3001000" />
-      <workItem from="1725442810841" duration="1624000" />
-    </task>
-    <task id="LOCAL−00010" summary="updated heading">
-      <option name="closed" value="true" />
-      <created>1724837014201</created>
-      <option name="number" value="LOCAL−00010" />
-      <option name="presentableId" value="LOCAL−00010" />
-      <updated>1724837014201</updated>
-    </task>
-    <task id="LOCAL−00011" summary="updated heading">
-      <option name="closed" value="true" />
-      <created>1724837151834</created>
-      <option name="number" value="LOCAL−00011" />
-      <option name="presentableId" value="LOCAL−00011" />
-      <updated>1724837151834</updated>
+      <workItem from="1725442810841" duration="2361000" />
     </task>
     <task id="LOCAL−00012" summary="new">
       <option name="closed" value="true" />
@@ -458,7 +448,21 @@
       <option name="presentableId" value="LOCAL−00058" />
       <updated>1725444438136</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL−00059" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1725444656956</created>
+      <option name="number" value="LOCAL−00059" />
+      <option name="presentableId" value="LOCAL−00059" />
+      <updated>1725444656956</updated>
+    </task>
+    <task id="LOCAL−00060" summary="Updated headings">
+      <option name="closed" value="true" />
+      <created>1725444800881</created>
+      <option name="number" value="LOCAL−00060" />
+      <option name="presentableId" value="LOCAL−00060" />
+      <updated>1725444800881</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -476,8 +480,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="muokattu muuttujan nimeä" />
-    <MESSAGE value="snadi laskennallinen muokkaus" />
     <MESSAGE value="updated heading" />
     <MESSAGE value="updated comment heading" />
     <MESSAGE value="updated muuttuja luku alkuarvo" />
@@ -501,13 +503,16 @@
     <MESSAGE value="Added 2 new functions" />
     <MESSAGE value="Added tavarat function" />
     <MESSAGE value="Fixed heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed heading" />
+    <MESSAGE value="Updated" />
+    <MESSAGE value="Updated headings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated headings" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_arpakuutiot.coverage" NAME="01_arpakuutiot Coverage Results" MODIFIED="1725362611784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_hemoglobiiniarvo.coverage" NAME="03_hemoglobiiniarvo Coverage Results" MODIFIED="1724838213483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_tuumat_senteiksi.coverage" NAME="02_tuumat_senteiksi Coverage Results" MODIFIED="1724840096207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$while_in_while_testaus.coverage" NAME="while_in_while_testaus Coverage Results" MODIFIED="1724918223474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$04_kaupunkien_nimet.coverage" NAME="04_kaupunkien_nimet Coverage Results" MODIFIED="1725445133459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$funktioiden_testausta.coverage" NAME="funktioiden_testausta Coverage Results" MODIFIED="1725437314733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_hyttiluokka.coverage" NAME="02_hyttiluokka Coverage Results" MODIFIED="1724835246435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_ympyran_pinta_ala.coverage" NAME="02_ympyran_pinta_ala Coverage Results" MODIFIED="1724313358283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
