@@ -1,4 +1,4 @@
-# Ohjelmisto 1 - Moduuli 5 - Tehtävä 3 - Onko alkuluku
+# Ohjelmisto 1 - Moduuli 5 - Tehtävä 3 - Onko luku alkuluku
 from math import trunc
 
 luku = "0"
