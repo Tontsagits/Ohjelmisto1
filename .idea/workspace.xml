@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Updated headings">
-      <change afterPath="$PROJECT_DIR$/Moduuli6/01_noppa_kunnes_kuusi.py" afterDir="false" />
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="New">
+      <change afterPath="$PROJECT_DIR$/Moduuli6/02_nopan_kaikki_tahkot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Python.01_hello_name.executor": "Run",
     "Python.01_kolmellajaollisetluvut.executor": "Run",
     "Python.01_kuhan_pituus.executor": "Run",
+    "Python.01_noppa_kunnes_kuusi.executor": "Run",
     "Python.02_hyttiluokka.executor": "Run",
     "Python.02_tuumat_senteiksi.executor": "Run",
     "Python.02_tuumat_senteiksi_ilman_while_true.executor": "Run",
@@ -117,14 +118,7 @@
       <workItem from="1725361982109" duration="1387000" />
       <workItem from="1725430012996" duration="5243000" />
       <workItem from="1725436922568" duration="3001000" />
-      <workItem from="1725442810841" duration="3137000" />
-    </task>
-    <task id="LOCAL−00013" summary="solved">
-      <option name="closed" value="true" />
-      <created>1724838259579</created>
-      <option name="number" value="LOCAL−00013" />
-      <option name="presentableId" value="LOCAL−00013" />
-      <updated>1724838259579</updated>
+      <workItem from="1725442810841" duration="3967000" />
     </task>
     <task id="LOCAL−00014" summary="new">
       <option name="closed" value="true" />
@@ -462,7 +456,14 @@
       <option name="presentableId" value="LOCAL−00061" />
       <updated>1725445229073</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL−00062" summary="New">
+      <option name="closed" value="true" />
+      <created>1725446237357</created>
+      <option name="number" value="LOCAL−00062" />
+      <option name="presentableId" value="LOCAL−00062" />
+      <updated>1725446237357</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,7 +498,6 @@
     <MESSAGE value="Updated print" />
     <MESSAGE value="Updated extend metodi" />
     <MESSAGE value="New with isnumeric()" />
-    <MESSAGE value="New" />
     <MESSAGE value="Added local variables test" />
     <MESSAGE value="Bug fixed" />
     <MESSAGE value="Added 2 new functions" />
@@ -505,7 +505,8 @@
     <MESSAGE value="Fixed heading" />
     <MESSAGE value="Updated" />
     <MESSAGE value="Updated headings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated headings" />
+    <MESSAGE value="New" />
+    <option name="LAST_COMMIT_MESSAGE" value="New" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_arpakuutiot.coverage" NAME="01_arpakuutiot Coverage Results" MODIFIED="1725362611784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
@@ -514,6 +515,7 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto1$while_in_while_testaus.coverage" NAME="while_in_while_testaus Coverage Results" MODIFIED="1724918223474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$04_kaupunkien_nimet.coverage" NAME="04_kaupunkien_nimet Coverage Results" MODIFIED="1725445203268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$funktioiden_testausta.coverage" NAME="funktioiden_testausta Coverage Results" MODIFIED="1725437314733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$01_noppa_kunnes_kuusi.coverage" NAME="01_noppa_kunnes_kuusi Coverage Results" MODIFIED="1725446180698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_hyttiluokka.coverage" NAME="02_hyttiluokka Coverage Results" MODIFIED="1724835246435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_ympyran_pinta_ala.coverage" NAME="02_ympyran_pinta_ala Coverage Results" MODIFIED="1724313358283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$04_luvun_arvuuttelu_ilman_while_true.coverage" NAME="04_luvun_arvuuttelu_ilman_while_true Coverage Results" MODIFIED="1724915039320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
