@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="New with isnumeric()">
-      <change afterPath="$PROJECT_DIR$/Moduuli5/03_onko_alkuluku.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="New" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,21 +110,7 @@
       <workItem from="1725349791456" duration="860000" />
       <workItem from="1725358438881" duration="624000" />
       <workItem from="1725361982109" duration="1387000" />
-      <workItem from="1725430012996" duration="3658000" />
-    </task>
-    <task id="LOCAL−00001" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1724313115710</created>
-      <option name="number" value="LOCAL−00001" />
-      <option name="presentableId" value="LOCAL−00001" />
-      <updated>1724313115710</updated>
-    </task>
-    <task id="LOCAL−00002" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1724314243526</created>
-      <option name="number" value="LOCAL−00002" />
-      <option name="presentableId" value="LOCAL−00002" />
-      <updated>1724314243526</updated>
+      <workItem from="1725430012996" duration="4309000" />
     </task>
     <task id="LOCAL−00003" summary="muokattu muuttujan nimeä">
       <option name="closed" value="true" />
@@ -458,7 +441,21 @@
       <option name="presentableId" value="LOCAL−00049" />
       <updated>1725432041555</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL−00050" summary="New">
+      <option name="closed" value="true" />
+      <created>1725433811110</created>
+      <option name="number" value="LOCAL−00050" />
+      <option name="presentableId" value="LOCAL−00050" />
+      <updated>1725433811110</updated>
+    </task>
+    <task id="LOCAL−00051" summary="New">
+      <option name="closed" value="true" />
+      <created>1725433915429</created>
+      <option name="number" value="LOCAL−00051" />
+      <option name="presentableId" value="LOCAL−00051" />
+      <updated>1725433915429</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,10 +491,10 @@
     <MESSAGE value="New, solved simple way" />
     <MESSAGE value="updated from random import uniform" />
     <MESSAGE value="Updated print" />
-    <MESSAGE value="New" />
     <MESSAGE value="Updated extend metodi" />
     <MESSAGE value="New with isnumeric()" />
-    <option name="LAST_COMMIT_MESSAGE" value="New with isnumeric()" />
+    <MESSAGE value="New" />
+    <option name="LAST_COMMIT_MESSAGE" value="New" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_arpakuutiot.coverage" NAME="01_arpakuutiot Coverage Results" MODIFIED="1725362611784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />

@@ -6,9 +6,8 @@ def tervehdi(kerrat):
     return
 
 print ("Päivä alkaa tervehdyksillä.")
+print("Tervehditään viisi kertaa")
 tervehdi(5)
-print ("Tervehditään lisää.")
+print ("Tervehditään vielä 2 kertaa lisää.")
 tervehdi(2)
-
-
 
