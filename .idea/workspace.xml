@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="New">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli5/01_arpakuutiot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli5/01_arpakuutiot.py" afterDir="false" />
-    </list>
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Updated print" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +104,7 @@
       <workItem from="1725346952898" duration="83000" />
       <workItem from="1725349791456" duration="860000" />
       <workItem from="1725358438881" duration="624000" />
-      <workItem from="1725361982109" duration="513000" />
+      <workItem from="1725361982109" duration="1387000" />
     </task>
     <task id="LOCAL−00001" summary="Updated">
       <option name="closed" value="true" />
@@ -417,7 +414,14 @@
       <option name="presentableId" value="LOCAL−00044" />
       <updated>1725350024004</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL−00045" summary="Updated print">
+      <option name="closed" value="true" />
+      <created>1725362681028</created>
+      <option name="number" value="LOCAL−00045" />
+      <option name="presentableId" value="LOCAL−00045" />
+      <updated>1725362681028</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,10 +457,11 @@
     <MESSAGE value="New, solved simple way" />
     <MESSAGE value="updated from random import uniform" />
     <MESSAGE value="New" />
-    <option name="LAST_COMMIT_MESSAGE" value="New" />
+    <MESSAGE value="Updated print" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated print" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Ohjelmisto1$01_arpakuutiot.coverage" NAME="01_arpakuutiot Coverage Results" MODIFIED="1725362187032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$01_arpakuutiot.coverage" NAME="01_arpakuutiot Coverage Results" MODIFIED="1725362611784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$05_kt_ja_ss_kysely.coverage" NAME="05_kt_ja_ss_kysely Coverage Results" MODIFIED="1724915828596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_hemoglobiiniarvo.coverage" NAME="03_hemoglobiiniarvo Coverage Results" MODIFIED="1724838213483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$06_numeroiden_arpominen.coverage" NAME="06_numeroiden_arpominen Coverage Results" MODIFIED="1724313103677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
