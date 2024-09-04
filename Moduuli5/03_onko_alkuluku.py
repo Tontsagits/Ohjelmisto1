@@ -1,22 +1,27 @@
 # Ohjelmisto 1 - Moduuli 5 - Tehtävä 3 - Onko alkuluku
+from math import trunc
 
 luku = "0"
-testaus = 0
+testattava = 0
 
 while luku != "" and luku != " ":
+
     luku = input("Anna positiivinen kokonaisluku (tyhjä lopettaa): ")
+
     if luku != "" and luku != " " and luku.isnumeric():
-        testaus = int(luku)
-        if testaus == 1:
-            print("Luku 1 ei ole alkuluku.")
-        elif testaus < 1:
+
+        testattava = int(luku)
+        if testattava == 1:
+            print(f"Luku {testattava} ei ole alkuluku.")
+        elif testattava < 1:
             print("Anna positiivinen kokonaisluku.")
-        elif testaus > 1:
-            for i in range(2,testaus):
-                # testataan onko annettu luku alkuluku
-                # saa olla jaollinen vain itsellään (ja tietysti luvulla 1)
-                # muuten ei ole alkuluku
-                if testaus % i == 0:
-                    print(f"Luku {testaus} on alkuluku.")
-                else:
-                    print(f"Luku {testaus} ei ole alkuluku.")
+        elif testattava > 1:
+            onko_alkuluku = True
+            for i in range(2,testattava):
+                # print(f"{testattava} / {i} = {testattava/i}")
+                if testattava % i != 0:
+                    onko_alkuluku = False
+            if onko_alkuluku:
+                print(f"Luku {testattava} on alkuluku.")
+            else:
+                print(f"Luku {testattava} ei ole alkuluku.")
