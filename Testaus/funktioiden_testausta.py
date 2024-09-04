@@ -6,11 +6,14 @@ def tervehdi(kerrat):
         print ("Hyvää päivää " + str(i+1) + ". kerran")
     return
 
-print ("Päivä alkaa tervehdyksillä.")
+print("Päivä alkaa tervehdyksillä.")
 print("Tervehditään viisi kertaa")
 tervehdi(5)
 print ("Tervehditään vielä 2 kertaa lisää.")
 tervehdi(2)
+kaikki_kerrat = int(input("Montako kertaa tervehditään? "))
+tervehdi(kaikki_kerrat)
+
 
 # funktion sisäiset, paikalliset muuttujat ja globaalit muuttujat
 def vaihda():
