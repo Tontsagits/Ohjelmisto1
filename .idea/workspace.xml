@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Solved">
-      <change afterPath="$PROJECT_DIR$/Moduuli6/06_pizzan_hinta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Moduuli7/01_mika_vuodenaika.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testaus/joukko_set_testausta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testaus/monikko_tuple_testausta.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testaus/listat_testausta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testaus/listat_testausta.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,9 +78,11 @@
     "Python.06_piin_likiarvo.executor": "Run",
     "Python.06_pizzan_hinta.executor": "Run",
     "Python.funktioiden_testausta.executor": "Debug",
+    "Python.joukko_set_testausta.executor": "Run",
     "Python.listat_testausta.executor": "Run",
     "Python.looppien_testausta_for_silmukka_range_funktio.executor": "Run",
     "Python.looppien_testausta_while_for_if_ehto.executor": "Run",
+    "Python.monikko_tuple_testausta.executor": "Run",
     "Python.randint_arpakuutiot_testi.executor": "Run",
     "Python.while_in_while_testaus.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -123,14 +128,8 @@
       <workItem from="1725361982109" duration="1387000" />
       <workItem from="1725430012996" duration="5243000" />
       <workItem from="1725436922568" duration="3001000" />
-      <workItem from="1725442810841" duration="7175000" />
-    </task>
-    <task id="LOCAL−00018" summary="new">
-      <option name="closed" value="true" />
-      <created>1724841274168</created>
-      <option name="number" value="LOCAL−00018" />
-      <option name="presentableId" value="LOCAL−00018" />
-      <updated>1724841274168</updated>
+      <workItem from="1725442810841" duration="7211000" />
+      <workItem from="1725878552043" duration="1235000" />
     </task>
     <task id="LOCAL−00019" summary="new">
       <option name="closed" value="true" />
@@ -468,7 +467,14 @@
       <option name="presentableId" value="LOCAL−00066" />
       <updated>1725448985398</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL−00067" summary="Solved">
+      <option name="closed" value="true" />
+      <created>1725450069244</created>
+      <option name="number" value="LOCAL−00067" />
+      <option name="presentableId" value="LOCAL−00067" />
+      <updated>1725450069244</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,11 +540,13 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto1$04_karkausvuosi.coverage" NAME="04_karkausvuosi Coverage Results" MODIFIED="1724839005266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_gallonat_litroiksi.coverage" NAME="03_gallonat_litroiksi Coverage Results" MODIFIED="1725447643621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$05_keskiaikaiset_mitat.coverage" NAME="05_keskiaikaiset_mitat Coverage Results" MODIFIED="1724315893361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
-    <SUITE FILE_PATH="coverage/Ohjelmisto1$listat_testausta.coverage" NAME="listat_testausta Coverage Results" MODIFIED="1725430107417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_nopan_kaikki_tahkot.coverage" NAME="02_nopan_kaikki_tahkot Coverage Results" MODIFIED="1725446942309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$listat_testausta.coverage" NAME="listat_testausta Coverage Results" MODIFIED="1725879773564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$looppien_testausta_for_silmukka_range_funktio.coverage" NAME="looppien_testausta_for_silmukka_range_funktio Coverage Results" MODIFIED="1725431016377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$05_kt_ja_ss_kysely.coverage" NAME="05_kt_ja_ss_kysely Coverage Results" MODIFIED="1724915828596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$joukko_set_testausta.coverage" NAME="joukko_set_testausta Coverage Results" MODIFIED="1725879530047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$06_numeroiden_arpominen.coverage" NAME="06_numeroiden_arpominen Coverage Results" MODIFIED="1724313103677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$monikko_tuple_testausta.coverage" NAME="monikko_tuple_testausta Coverage Results" MODIFIED="1725879538119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_kuhan_pituus.coverage" NAME="01_kuhan_pituus Coverage Results" MODIFIED="1724834735833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_pienin_suurin_luvut_ilman_while_true.coverage" NAME="03_pienin_suurin_luvut_ilman_while_true Coverage Results" MODIFIED="1724914865177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_suorakulmion_tiedot.coverage" NAME="03_suorakulmion_tiedot Coverage Results" MODIFIED="1724313438376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
