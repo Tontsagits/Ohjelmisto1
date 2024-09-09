@@ -3,6 +3,8 @@
 # luenteeltaan siis staattinen
 
 # esimerkki
+print()
+
 viikonpaivat = ("maanantai", "tiistai", "keskiviikko", "torstai", "perjantai", "lauantai", "sunnuntai")
 jarjestysnumero = int(input("Anna viikonpäivän järjestysnumero (1-7): "))
 viikonpaiva = viikonpaivat[jarjestysnumero-1]

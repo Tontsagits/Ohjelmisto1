@@ -4,6 +4,7 @@
 # ei tarvitse olla samaa tyyppiä, voi olla eri tyyppisiä, numeroista, merkkejä, listoja, toisia tupleja
 # tyhjä joukko luodaan funktiolla set()
 
+print()
 
 pelit = {"Monopoli", "Shakki", "Cluedo"}
 print(pelit)

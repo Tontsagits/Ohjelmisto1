@@ -19,3 +19,8 @@ nimi = input("Anna nimi: ")
 if nimi in numerot:
     print (f"Henkilön {nimi} puhelinnumero on {numerot[nimi]}.")
 
+for avain in numerot:
+    print(avain)
+
+for avain, arvo in numerot.items():
+    print(f"avain: {avain} arvo: {arvo}")

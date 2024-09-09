@@ -1,6 +1,8 @@
 # Lista olion testausta, listan elementit eli alkiot
 
 
+print()
+
 nimet = ["Viivi", "Ahmed", "Pekka", "Olga", "Mary", "Olavi", "Kermit", "Helmi", "Reipas"]
 
 print(nimet[3])
