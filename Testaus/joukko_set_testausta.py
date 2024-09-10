@@ -6,6 +6,8 @@
 
 print()
 
+pelit = set()
+
 pelit = {"Monopoli", "Shakki", "Cluedo"}
 print(pelit)
 
