@@ -10,6 +10,7 @@ lentoasemat["EFJY"] = "Jyvaskyla Airport"
 lentoasemat["ESSA"] = "Stockholm Arlanda Airport"
 lentoasemat["ESKN"] = "Stockholm Skavsta Airport"
 lentoasemat["ESSU"] = "Eskilstuna Airport"
+lentoasemat["ESSL"] = "Linkoping City Airport"
 
 while True:
     valinta = str.lower(input("Haluatko syöttää uuden lentoaseman (uusi), hakea jo syötetyn lentoaseman (haku), listata tallennetut lentoasemat (lista), vai lopettaa (lopetus)? "))
@@ -26,5 +27,3 @@ while True:
     elif valinta == "lista":
         for avain, arvo in lentoasemat.items():
             print(f"ICAO koodi {avain} on {arvo}")
-
-
