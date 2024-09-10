@@ -7,7 +7,6 @@
     <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Moduuli7/02_uudet_nimet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli7/02_uudet_nimet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testaus/joukko_set_testausta.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testaus/joukko_set_testausta.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,57 +44,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01_arpakuutiot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_hello_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_kolmellajaollisetluvut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_kuhan_pituus.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_mika_vuodenaika.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_noppa_kunnes_kuusi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_hyttiluokka.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_nopan_kaikki_tahkot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_tuumat_senteiksi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_tuumat_senteiksi_ilman_while_true.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_viisi_suurinta_lukua.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_ympyran_pinta_ala.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_gallonat_litroiksi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_hemoglobiiniarvo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_onko_alkuluku.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_pienin_suurin_luvut.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_pienin_suurin_luvut_ilman_while_true.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_suorakulmion_tiedot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_karkausvuosi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_kaupunkien_nimet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_lukujen_summa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_luvun_arvuuttelu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_luvun_arvuuttelu_ilman_while_true.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_keskiaikaiset_mitat.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_kt_ja_ss_kysely.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_parittomat_pois.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_numeroiden_arpominen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_piin_likiarvo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_pizzan_hinta.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funktioiden_testausta.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.joukko_set_testausta.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listat_testausta.executor&quot;: &quot;Run&quot;,
-    &quot;Python.looppien_testausta_for_silmukka_range_funktio.executor&quot;: &quot;Run&quot;,
-    &quot;Python.looppien_testausta_while_for_if_ehto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.monikko_tuple_testausta.executor&quot;: &quot;Run&quot;,
-    &quot;Python.randint_arpakuutiot_testi.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sanakirja_testausta.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while_in_while_testaus.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_arpakuutiot.executor": "Run",
+    "Python.01_hello_name.executor": "Run",
+    "Python.01_kolmellajaollisetluvut.executor": "Run",
+    "Python.01_kuhan_pituus.executor": "Run",
+    "Python.01_mika_vuodenaika.executor": "Run",
+    "Python.01_noppa_kunnes_kuusi.executor": "Run",
+    "Python.02_hyttiluokka.executor": "Run",
+    "Python.02_nopan_kaikki_tahkot.executor": "Run",
+    "Python.02_tuumat_senteiksi.executor": "Run",
+    "Python.02_tuumat_senteiksi_ilman_while_true.executor": "Run",
+    "Python.02_uudet_nimet.executor": "Run",
+    "Python.02_viisi_suurinta_lukua.executor": "Run",
+    "Python.02_ympyran_pinta_ala.executor": "Run",
+    "Python.03_gallonat_litroiksi.executor": "Run",
+    "Python.03_hemoglobiiniarvo.executor": "Run",
+    "Python.03_onko_alkuluku.executor": "Run",
+    "Python.03_pienin_suurin_luvut.executor": "Run",
+    "Python.03_pienin_suurin_luvut_ilman_while_true.executor": "Run",
+    "Python.03_suorakulmion_tiedot.executor": "Run",
+    "Python.04_karkausvuosi.executor": "Run",
+    "Python.04_kaupunkien_nimet.executor": "Run",
+    "Python.04_lukujen_summa.executor": "Run",
+    "Python.04_luvun_arvuuttelu.executor": "Run",
+    "Python.04_luvun_arvuuttelu_ilman_while_true.executor": "Run",
+    "Python.05_keskiaikaiset_mitat.executor": "Run",
+    "Python.05_kt_ja_ss_kysely.executor": "Run",
+    "Python.05_parittomat_pois.executor": "Run",
+    "Python.06_numeroiden_arpominen.executor": "Run",
+    "Python.06_piin_likiarvo.executor": "Run",
+    "Python.06_pizzan_hinta.executor": "Run",
+    "Python.funktioiden_testausta.executor": "Debug",
+    "Python.joukko_set_testausta.executor": "Run",
+    "Python.listat_testausta.executor": "Run",
+    "Python.looppien_testausta_for_silmukka_range_funktio.executor": "Run",
+    "Python.looppien_testausta_while_for_if_ehto.executor": "Run",
+    "Python.monikko_tuple_testausta.executor": "Run",
+    "Python.randint_arpakuutiot_testi.executor": "Run",
+    "Python.sanakirja_testausta.executor": "Run",
+    "Python.while_in_while_testaus.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -130,14 +130,8 @@
       <workItem from="1725436922568" duration="3001000" />
       <workItem from="1725442810841" duration="7211000" />
       <workItem from="1725878552043" duration="3195000" />
-      <workItem from="1725947902480" duration="303000" />
-    </task>
-    <task id="LOCAL−00025" summary="updated muuttuja luku alkuarvo">
-      <option name="closed" value="true" />
-      <created>1724847597433</created>
-      <option name="number" value="LOCAL−00025" />
-      <option name="presentableId" value="LOCAL−00025" />
-      <updated>1724847597433</updated>
+      <workItem from="1725947902480" duration="339000" />
+      <workItem from="1725948257618" duration="345000" />
     </task>
     <task id="LOCAL−00026" summary="updated muuttuja luku alkuarvo">
       <option name="closed" value="true" />
@@ -475,7 +469,14 @@
       <option name="presentableId" value="LOCAL−00073" />
       <updated>1725881732296</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL−00074" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1725948231030</created>
+      <option name="number" value="LOCAL−00074" />
+      <option name="presentableId" value="LOCAL−00074" />
+      <updated>1725948231030</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
