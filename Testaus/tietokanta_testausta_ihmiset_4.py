@@ -8,7 +8,7 @@ import mysql.connector
 
 def hae_työntekijät_joilla_palkka_yli(raja):
     kysely = f"SELECT * FROM työntekijä where palkka > {raja};"
-    print(kysely)
+    # print(kysely)
     kursori = db_ihmiset.cursor() # palauttaa listan jonka alkiot monikkoja, myös dict onnistuu: dictionary=True
     kursori.execute(kysely)
     tulos = kursori.fetchall()
@@ -18,7 +18,7 @@ def hae_työntekijät_joilla_palkka_yli(raja):
 
 def päivitä_palkkaa(numero, uusi_palkka):
     sql = f"UPDATE Työntekijä SET Palkka={uusi_palkka} WHERE Numero={numero}"
-    print(sql)
+    # print(sql)
     kursori = db_ihmiset.cursor() # palauttaa listan jonka alkiot monikkoja, myös dict onnistuu: dictionary=True
     kursori.execute(sql)
     if kursori.rowcount == 1:
@@ -26,15 +26,28 @@ def päivitä_palkkaa(numero, uusi_palkka):
 
 def hae_työntekijät():
     kysely = f"SELECT * FROM työntekijä order by numero;"
-    print(kysely)
+    # print(kysely)
     kursori = db_ihmiset.cursor() # palauttaa listan jonka alkiot monikkoja, myös dict onnistuu: dictionary=True
     kursori.execute(kysely)
     tulos = kursori.fetchall()
     if kursori.rowcount > 0 :
-        print(tulos)
+        # print(tulos)
         return tulos
     else:
         return None
+
+def hae_työntekijä(arvo):
+    kysely = f"SELECT * FROM työntekijä where numero = %s;"
+    # print(kysely)
+    kursori = db_ihmiset.cursor() # palauttaa listan jonka alkiot monikkoja, myös dict onnistuu: dictionary=True
+    kursori.execute(kysely, (arvo,))
+    tulos = kursori.fetchall()
+    if kursori.rowcount > 0 :
+        # print(tulos)
+        return tulos
+    else:
+        return None
+
 
 
 # main pääohjelma
@@ -68,4 +81,9 @@ print()
 numero = int(input("Anna työntekijän järjestysnumero: "))
 uusi_palkka = float(input("Anna uusi palkka: "))
 päivitä_palkkaa(numero, uusi_palkka)
-
+tyontekija = hae_työntekijä(numero)
+if tyontekija is not None:
+    for rivi in tyontekija:
+        print(f"Työntekijän numero {rivi[0]}, nimeltään {rivi[2]} {rivi[1]}, palkka on päivitetty {rivi[6]} euroon.")
+else:
+    print('Palkka ei tainnut päivittyä.')
