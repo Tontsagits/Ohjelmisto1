@@ -19,7 +19,7 @@ def hae_työntekijät_joilla_palkka_yli(raja):
 def päivitä_palkkaa(numero, uusi_palkka):
     sql = f"UPDATE Työntekijä SET Palkka={uusi_palkka} WHERE Numero={numero}"
     print(sql)
-    kursori = db_ihmiset.cursor()
+    kursori = db_ihmiset.cursor() # palauttaa listan jonka alkiot monikkoja, myös dict onnistuu: dictionary=True
     kursori.execute(sql)
     if kursori.rowcount == 1:
         print("Palkka päivitetty")
@@ -27,7 +27,7 @@ def päivitä_palkkaa(numero, uusi_palkka):
 def hae_työntekijät():
     kysely = f"SELECT * FROM työntekijä order by numero;"
     print(kysely)
-    kursori = db_ihmiset.cursor() # palauttaa listan, myös dict onnistuu: dictionary=True
+    kursori = db_ihmiset.cursor() # palauttaa listan jonka alkiot monikkoja, myös dict onnistuu: dictionary=True
     kursori.execute(kysely)
     tulos = kursori.fetchall()
     if kursori.rowcount > 0 :
@@ -48,6 +48,8 @@ db_ihmiset = mysql.connector.connect(
     autocommit=True
 )
 
+print("Haetaan lista työntekijöistä...")
+print()
 duunarit = hae_työntekijät()
 if duunarit is not None:
     for rivi in duunarit:
@@ -55,11 +57,15 @@ if duunarit is not None:
 else:
     print('Duunareita ei löytynyt')
 
-'''
+
+print("Haetaan lista työntekijöistä, joiden palkka on enemmän kuin...")
+print()
 palkkaraja = input("Anna haettava palkkaraja: ")
 hae_työntekijät_joilla_palkka_yli(palkkaraja)
 
+print("Päivitetään työntekijän palkka...")
+print()
 numero = int(input("Anna työntekijän järjestysnumero: "))
 uusi_palkka = float(input("Anna uusi palkka: "))
 päivitä_palkkaa(numero, uusi_palkka)
-'''
+
