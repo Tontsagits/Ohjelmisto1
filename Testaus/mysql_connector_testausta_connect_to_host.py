@@ -1,4 +1,4 @@
-# MySQL Connector plugin testausta
+# MySQL Connector plugin testausta - connect to db host
 
 import mysql.connector
 
