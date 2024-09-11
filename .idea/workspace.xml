@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="New" />
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="New">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduuli8/03_lentokenttien_valiset_etaisyydet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli8/03_lentokenttien_valiset_etaisyydet.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +64,7 @@
     "Python.03_gallonat_litroiksi.executor": "Run",
     "Python.03_hemoglobiiniarvo.executor": "Run",
     "Python.03_lentoasemat.executor": "Run",
+    "Python.03_lentokenttien_valiset_etaisyydet.executor": "Run",
     "Python.03_onko_alkuluku.executor": "Run",
     "Python.03_pienin_suurin_luvut.executor": "Run",
     "Python.03_pienin_suurin_luvut_ilman_while_true.executor": "Run",
@@ -147,21 +151,7 @@
       <workItem from="1726035781592" duration="889000" />
       <workItem from="1726037122825" duration="809000" />
       <workItem from="1726048432836" duration="7215000" />
-      <workItem from="1726066920020" duration="7466000" />
-    </task>
-    <task id="LOCAL−00056" summary="Added tavarat function">
-      <option name="closed" value="true" />
-      <created>1725438799099</created>
-      <option name="number" value="LOCAL−00056" />
-      <option name="presentableId" value="LOCAL−00056" />
-      <updated>1725438799099</updated>
-    </task>
-    <task id="LOCAL−00057" summary="Added tavarat function">
-      <option name="closed" value="true" />
-      <created>1725444408264</created>
-      <option name="number" value="LOCAL−00057" />
-      <option name="presentableId" value="LOCAL−00057" />
-      <updated>1725444408264</updated>
+      <workItem from="1726066920020" duration="8716000" />
     </task>
     <task id="LOCAL−00058" summary="Fixed heading">
       <option name="closed" value="true" />
@@ -492,7 +482,21 @@
       <option name="presentableId" value="LOCAL−00104" />
       <updated>1726074529499</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL−00105" summary="Updated typos">
+      <option name="closed" value="true" />
+      <created>1726074968607</created>
+      <option name="number" value="LOCAL−00105" />
+      <option name="presentableId" value="LOCAL−00105" />
+      <updated>1726074968607</updated>
+    </task>
+    <task id="LOCAL−00106" summary="New">
+      <option name="closed" value="true" />
+      <created>1726074982851</created>
+      <option name="number" value="LOCAL−00106" />
+      <option name="presentableId" value="LOCAL−00106" />
+      <updated>1726074982851</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,7 +514,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated from random import uniform" />
     <MESSAGE value="Updated print" />
     <MESSAGE value="Updated extend metodi" />
     <MESSAGE value="New with isnumeric()" />
@@ -534,6 +537,7 @@
     <MESSAGE value="Updated print rivit" />
     <MESSAGE value="Updated last print" />
     <MESSAGE value="Updated function name typo" />
+    <MESSAGE value="Updated typos" />
     <MESSAGE value="New" />
     <option name="LAST_COMMIT_MESSAGE" value="New" />
   </component>
@@ -569,6 +573,7 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto1$04_karkausvuosi.coverage" NAME="04_karkausvuosi Coverage Results" MODIFIED="1724839005266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_gallonat_litroiksi.coverage" NAME="03_gallonat_litroiksi Coverage Results" MODIFIED="1725447643621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$sanakirja_testausta.coverage" NAME="sanakirja_testausta Coverage Results" MODIFIED="1725880708258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$03_lentokenttien_valiset_etaisyydet.coverage" NAME="03_lentokenttien_valiset_etaisyydet Coverage Results" MODIFIED="1726075807913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli8" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$05_keskiaikaiset_mitat.coverage" NAME="05_keskiaikaiset_mitat Coverage Results" MODIFIED="1724315893361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_nopan_kaikki_tahkot.coverage" NAME="02_nopan_kaikki_tahkot Coverage Results" MODIFIED="1725446942309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$listat_testausta.coverage" NAME="listat_testausta Coverage Results" MODIFIED="1725879872158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
