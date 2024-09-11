@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Added some test airports">
-      <change afterPath="$PROJECT_DIR$/Testaus/mysql_connector_testausta.py" afterDir="false" />
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +82,7 @@
     &quot;Python.looppien_testausta_for_silmukka_range_funktio.executor&quot;: &quot;Run&quot;,
     &quot;Python.looppien_testausta_while_for_if_ehto.executor&quot;: &quot;Run&quot;,
     &quot;Python.monikko_tuple_testausta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mysql_connector_testausta.executor&quot;: &quot;Run&quot;,
     &quot;Python.randint_arpakuutiot_testi.executor&quot;: &quot;Run&quot;,
     &quot;Python.sanakirja_testausta.executor&quot;: &quot;Run&quot;,
     &quot;Python.while_in_while_testaus.executor&quot;: &quot;Run&quot;,
@@ -134,21 +134,11 @@
       <workItem from="1725947902480" duration="339000" />
       <workItem from="1725948257618" duration="3264000" />
       <workItem from="1725951559813" duration="11000" />
-      <workItem from="1725993564079" duration="419000" />
-    </task>
-    <task id="LOCAL−00029" summary="new">
-      <option name="closed" value="true" />
-      <created>1724858281878</created>
-      <option name="number" value="LOCAL−00029" />
-      <option name="presentableId" value="LOCAL−00029" />
-      <updated>1724858281878</updated>
-    </task>
-    <task id="LOCAL−00030" summary="new">
-      <option name="closed" value="true" />
-      <created>1724858549357</created>
-      <option name="number" value="LOCAL−00030" />
-      <option name="presentableId" value="LOCAL−00030" />
-      <updated>1724858549357</updated>
+      <workItem from="1725993564079" duration="1150000" />
+      <workItem from="1725995063983" duration="241000" />
+      <workItem from="1725995354699" duration="126000" />
+      <workItem from="1726035781592" duration="889000" />
+      <workItem from="1726037122825" duration="809000" />
     </task>
     <task id="LOCAL−00031" summary="updated">
       <option name="closed" value="true" />
@@ -479,7 +469,21 @@
       <option name="presentableId" value="LOCAL−00077" />
       <updated>1725951200023</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL−00078" summary="Added some test airports">
+      <option name="closed" value="true" />
+      <created>1725994440169</created>
+      <option name="number" value="LOCAL−00078" />
+      <option name="presentableId" value="LOCAL−00078" />
+      <updated>1725994440169</updated>
+    </task>
+    <task id="LOCAL−00079" summary="Updated">
+      <option name="closed" value="true" />
+      <created>1725994463454</created>
+      <option name="number" value="LOCAL−00079" />
+      <option name="presentableId" value="LOCAL−00079" />
+      <updated>1725994463454</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,11 +522,11 @@
     <MESSAGE value="Fixed heading" />
     <MESSAGE value="Updated headings" />
     <MESSAGE value="Solved" />
-    <MESSAGE value="Updated" />
     <MESSAGE value="Updated for statement" />
     <MESSAGE value="New" />
     <MESSAGE value="Added some test airports" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some test airports" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_arpakuutiot.coverage" NAME="01_arpakuutiot Coverage Results" MODIFIED="1725362611784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
@@ -555,6 +559,7 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto1$joukko_set_testausta.coverage" NAME="joukko_set_testausta Coverage Results" MODIFIED="1725879530047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$06_numeroiden_arpominen.coverage" NAME="06_numeroiden_arpominen Coverage Results" MODIFIED="1724313103677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$monikko_tuple_testausta.coverage" NAME="monikko_tuple_testausta Coverage Results" MODIFIED="1725879538119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$mysql_connector_testausta.coverage" NAME="mysql_connector_testausta Coverage Results" MODIFIED="1726036320598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_kuhan_pituus.coverage" NAME="01_kuhan_pituus Coverage Results" MODIFIED="1724834735833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_pienin_suurin_luvut_ilman_while_true.coverage" NAME="03_pienin_suurin_luvut_ilman_while_true Coverage Results" MODIFIED="1724914865177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_suorakulmion_tiedot.coverage" NAME="03_suorakulmion_tiedot Coverage Results" MODIFIED="1724313438376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
