@@ -6,7 +6,7 @@ import mysql.connector
 
 # omat funktiot
 
-def hae_lentoketta_maa_koodilla(maa):
+def hae_lentokentta_maa_koodilla(maa):
     sql = f"SELECT id, ident, name, municipality FROM airport WHERE iso_country = %s order by ident;"
     # print(sql)
     kursori = db_lentopeli.cursor()
@@ -29,8 +29,8 @@ db_lentopeli = mysql.connector.connect(
     autocommit=True
 )
 
-code = input('Syötä lentokentän maatunnus: ')
-lentokentta = hae_lentoketta_maa_koodilla(code)
+maatunnus = input('Syötä lentokentän maatunnus: ')
+lentokentta = hae_lentokentta_maa_koodilla(maatunnus)
 if lentokentta is not None:
     for rivi in lentokentta:
         print(f"{rivi[1]} on {rivi[2]} ja sijaitsee paikkakunnalla {rivi[3]}.")

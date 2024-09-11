@@ -6,7 +6,7 @@ import mysql.connector
 
 # omat funktiot
 
-def hae_lentoketta_icao_koodilla(icao):
+def hae_lentokentta_icao_koodilla(icao):
     sql = f"SELECT name, municipality FROM airport WHERE ident = %s"
     # print(sql)
     kursori = db_lentopeli.cursor(dictionary=True)
@@ -24,8 +24,8 @@ db_lentopeli = mysql.connector.connect(
     autocommit=True
 )
 
-code = input('Syötä lentokentän ICAO koodi: ')
-lentokentta = hae_lentoketta_icao_koodilla(code)
+koodi = input('Syötä lentokentän ICAO koodi: ')
+lentokentta = hae_lentokentta_icao_koodilla(koodi)
 if lentokentta is not None:
     print(f"{lentokentta['name']} on paikkakunnalla {lentokentta['municipality']}")
 else:
