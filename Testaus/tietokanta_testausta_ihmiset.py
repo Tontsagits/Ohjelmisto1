@@ -1,4 +1,5 @@
-# Tietokanta testausta - ihmiset
+# Tietokanta testausta - ihmiset opetusinfot
+# cursor() execute() fetchone() fetchall() ovat kaikki mysql.connector olioita
 
 import mysql.connector
 
