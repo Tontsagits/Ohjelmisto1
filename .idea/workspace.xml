@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="New, with custom db connect">
-      <change afterPath="$PROJECT_DIR$/Testaus/tietokanta_testausta_lentokentta_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="New, with custom search and print">
+      <change beforePath="$PROJECT_DIR$/Testaus/tietokanta_testausta_lentokentta_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testaus/tietokanta_testausta_lentokentta_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,7 @@
     "Python.tietokanta_testausta_ihmiset.executor": "Run",
     "Python.tietokanta_testausta_ihmiset_2.executor": "Run",
     "Python.tietokanta_testausta_ihmiset_3.executor": "Run",
+    "Python.tietokanta_testausta_lentokentta_2.executor": "Run",
     "Python.while_in_while_testaus.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -146,14 +146,7 @@
       <workItem from="1726035781592" duration="889000" />
       <workItem from="1726037122825" duration="809000" />
       <workItem from="1726048432836" duration="7215000" />
-      <workItem from="1726066920020" duration="1468000" />
-    </task>
-    <task id="LOCAL−00044" summary="New">
-      <option name="closed" value="true" />
-      <created>1725350024004</created>
-      <option name="number" value="LOCAL−00044" />
-      <option name="presentableId" value="LOCAL−00044" />
-      <updated>1725350024004</updated>
+      <workItem from="1726066920020" duration="1794000" />
     </task>
     <task id="LOCAL−00045" summary="Updated print">
       <option name="closed" value="true" />
@@ -491,7 +484,14 @@
       <option name="presentableId" value="LOCAL−00092" />
       <updated>1726067579861</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL−00093" summary="New, with custom search and print">
+      <option name="closed" value="true" />
+      <created>1726068629463</created>
+      <option name="number" value="LOCAL−00093" />
+      <option name="presentableId" value="LOCAL−00093" />
+      <updated>1726068629463</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,7 +509,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated ilman While True" />
     <MESSAGE value="solved with break" />
     <MESSAGE value="solved" />
     <MESSAGE value="xml" />
@@ -534,7 +533,8 @@
     <MESSAGE value="Updated oma funktio" />
     <MESSAGE value="New, with custom f print" />
     <MESSAGE value="New, with custom db connect" />
-    <option name="LAST_COMMIT_MESSAGE" value="New, with custom db connect" />
+    <MESSAGE value="New, with custom search and print" />
+    <option name="LAST_COMMIT_MESSAGE" value="New, with custom search and print" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_arpakuutiot.coverage" NAME="01_arpakuutiot Coverage Results" MODIFIED="1725362611784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
@@ -565,6 +565,7 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto1$listat_testausta.coverage" NAME="listat_testausta Coverage Results" MODIFIED="1725879872158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$looppien_testausta_for_silmukka_range_funktio.coverage" NAME="looppien_testausta_for_silmukka_range_funktio Coverage Results" MODIFIED="1725431016377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_uudet_nimet.coverage" NAME="02_uudet_nimet Coverage Results" MODIFIED="1725948549281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli7" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$tietokanta_testausta_lentokentta_2.coverage" NAME="tietokanta_testausta_lentokentta_2 Coverage Results" MODIFIED="1726068659820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$05_kt_ja_ss_kysely.coverage" NAME="05_kt_ja_ss_kysely Coverage Results" MODIFIED="1724915828596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$joukko_set_testausta.coverage" NAME="joukko_set_testausta Coverage Results" MODIFIED="1725879530047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$06_numeroiden_arpominen.coverage" NAME="06_numeroiden_arpominen Coverage Results" MODIFIED="1724313103677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
