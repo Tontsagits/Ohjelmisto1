@@ -10,10 +10,10 @@ import mysql.connector
 # main pääohjelma
 
 yhteys = mysql.connector.connect(
-         host='localhost',
-         port= 3306,
-         database='ihmiset',
-         user='tontsah',
-         password='tontsah1234',
-         autocommit=True
-         )
+    host='localhost',
+    port= 3306,
+    database='ihmiset',
+    user='tontsah',
+    password='tontsah1234',
+    autocommit=True
+)
