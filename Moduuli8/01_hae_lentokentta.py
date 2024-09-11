@@ -36,4 +36,4 @@ if lentokentta is not None:
     for rivi in lentokentta:
         print(f"{rivi[1]} on {rivi[2]} ja sijaitsee paikkakunnalla {rivi[3]}.")
 else:
-    print('Lentokenttiä ei löytynyt')
+    print('Lentokenttiä ei löytynyt.')

@@ -37,4 +37,4 @@ if lentokenttatyypit is not None:
     for rivi in lentokenttatyypit:
         print(f"{rivi[1]} {rivi[0]} kpl.")
 else:
-    print('Lentokenttiä ei löytynyt')
+    print('Lentokenttiä ei löytynyt.')
