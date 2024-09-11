@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="New, with custom f print" />
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="New, with custom db connect">
+      <change afterPath="$PROJECT_DIR$/Testaus/tietokanta_testausta_lentokentta_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,14 +146,7 @@
       <workItem from="1726035781592" duration="889000" />
       <workItem from="1726037122825" duration="809000" />
       <workItem from="1726048432836" duration="7215000" />
-      <workItem from="1726066920020" duration="408000" />
-    </task>
-    <task id="LOCAL−00043" summary="New">
-      <option name="closed" value="true" />
-      <created>1724918314121</created>
-      <option name="number" value="LOCAL−00043" />
-      <option name="presentableId" value="LOCAL−00043" />
-      <updated>1724918314121</updated>
+      <workItem from="1726066920020" duration="1468000" />
     </task>
     <task id="LOCAL−00044" summary="New">
       <option name="closed" value="true" />
@@ -488,7 +484,14 @@
       <option name="presentableId" value="LOCAL−00091" />
       <updated>1726067314480</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL−00092" summary="New, with custom db connect">
+      <option name="closed" value="true" />
+      <created>1726067579861</created>
+      <option name="number" value="LOCAL−00092" />
+      <option name="presentableId" value="LOCAL−00092" />
+      <updated>1726067579861</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,7 +509,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated while ilman True booleania" />
     <MESSAGE value="updated ilman While True" />
     <MESSAGE value="solved with break" />
     <MESSAGE value="solved" />
@@ -531,7 +533,8 @@
     <MESSAGE value="Updated oma funktio ja random kysely ihmiset tietokantaan" />
     <MESSAGE value="Updated oma funktio" />
     <MESSAGE value="New, with custom f print" />
-    <option name="LAST_COMMIT_MESSAGE" value="New, with custom f print" />
+    <MESSAGE value="New, with custom db connect" />
+    <option name="LAST_COMMIT_MESSAGE" value="New, with custom db connect" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_arpakuutiot.coverage" NAME="01_arpakuutiot Coverage Results" MODIFIED="1725362611784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
