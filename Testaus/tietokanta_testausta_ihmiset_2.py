@@ -9,7 +9,7 @@ import mysql.connector
 def hae_työntekijät_joilla_palkka_yli(raja):
     kysely = f"SELECT * FROM työntekijä where palkka > {raja};"
     print(kysely)
-    kursori = db_ihmiset.cursor()
+    kursori = db_ihmiset.cursor() # palauttaa listan, myös dict onnistuu: dictionary=True
     kursori.execute(kysely)
     tulos = kursori.fetchall()
     if kursori.rowcount > 0 :
