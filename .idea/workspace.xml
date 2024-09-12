@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="New">
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Solved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moduuli8/03_lentokenttien_valiset_etaisyydet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Moduuli8/03_lentokenttien_valiset_etaisyydet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,70 +43,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01_arpakuutiot.executor": "Run",
-    "Python.01_hae_lentokentta.executor": "Run",
-    "Python.01_hello_name.executor": "Run",
-    "Python.01_kolmellajaollisetluvut.executor": "Run",
-    "Python.01_kuhan_pituus.executor": "Run",
-    "Python.01_mika_vuodenaika.executor": "Run",
-    "Python.01_noppa_kunnes_kuusi.executor": "Run",
-    "Python.02_hyttiluokka.executor": "Run",
-    "Python.02_kenttien_lukumaarat.executor": "Run",
-    "Python.02_nopan_kaikki_tahkot.executor": "Run",
-    "Python.02_tuumat_senteiksi.executor": "Run",
-    "Python.02_tuumat_senteiksi_ilman_while_true.executor": "Run",
-    "Python.02_uudet_nimet.executor": "Run",
-    "Python.02_viisi_suurinta_lukua.executor": "Run",
-    "Python.02_ympyran_pinta_ala.executor": "Run",
-    "Python.03_gallonat_litroiksi.executor": "Run",
-    "Python.03_hemoglobiiniarvo.executor": "Run",
-    "Python.03_lentoasemat.executor": "Run",
-    "Python.03_lentokenttien_valiset_etaisyydet.executor": "Run",
-    "Python.03_onko_alkuluku.executor": "Run",
-    "Python.03_pienin_suurin_luvut.executor": "Run",
-    "Python.03_pienin_suurin_luvut_ilman_while_true.executor": "Run",
-    "Python.03_suorakulmion_tiedot.executor": "Run",
-    "Python.04_karkausvuosi.executor": "Run",
-    "Python.04_kaupunkien_nimet.executor": "Run",
-    "Python.04_lukujen_summa.executor": "Run",
-    "Python.04_luvun_arvuuttelu.executor": "Run",
-    "Python.04_luvun_arvuuttelu_ilman_while_true.executor": "Run",
-    "Python.05_keskiaikaiset_mitat.executor": "Run",
-    "Python.05_kt_ja_ss_kysely.executor": "Run",
-    "Python.05_parittomat_pois.executor": "Run",
-    "Python.06_numeroiden_arpominen.executor": "Run",
-    "Python.06_piin_likiarvo.executor": "Run",
-    "Python.06_pizzan_hinta.executor": "Run",
-    "Python.funktioiden_testausta.executor": "Debug",
-    "Python.joukko_set_testausta.executor": "Run",
-    "Python.listat_testausta.executor": "Run",
-    "Python.looppien_testausta_for_silmukka_range_funktio.executor": "Run",
-    "Python.looppien_testausta_while_for_if_ehto.executor": "Run",
-    "Python.monikko_tuple_testausta.executor": "Run",
-    "Python.mysql_connector_testausta.executor": "Run",
-    "Python.mysql_connector_testausta_connect_to_db_ihmiset.executor": "Run",
-    "Python.mysql_connector_testausta_connect_to_host.executor": "Run",
-    "Python.randint_arpakuutiot_testi.executor": "Run",
-    "Python.sanakirja_testausta.executor": "Run",
-    "Python.tietokanta_testausta_ihmiset.executor": "Run",
-    "Python.tietokanta_testausta_ihmiset_2.executor": "Run",
-    "Python.tietokanta_testausta_ihmiset_3.executor": "Run",
-    "Python.tietokanta_testausta_ihmiset_4.executor": "Run",
-    "Python.tietokanta_testausta_lentokentta_2.executor": "Run",
-    "Python.while_in_while_testaus.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_arpakuutiot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_hae_lentokentta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_hello_name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_kolmellajaollisetluvut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_kuhan_pituus.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_mika_vuodenaika.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_noppa_kunnes_kuusi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_hyttiluokka.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_kenttien_lukumaarat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_nopan_kaikki_tahkot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_tuumat_senteiksi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_tuumat_senteiksi_ilman_while_true.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_uudet_nimet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_viisi_suurinta_lukua.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_ympyran_pinta_ala.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_gallonat_litroiksi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_hemoglobiiniarvo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_lentoasemat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_lentokenttien_valiset_etaisyydet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_onko_alkuluku.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_pienin_suurin_luvut.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_pienin_suurin_luvut_ilman_while_true.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_suorakulmion_tiedot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_karkausvuosi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_kaupunkien_nimet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_lukujen_summa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_luvun_arvuuttelu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_luvun_arvuuttelu_ilman_while_true.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_keskiaikaiset_mitat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_kt_ja_ss_kysely.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_parittomat_pois.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_numeroiden_arpominen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_piin_likiarvo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06_pizzan_hinta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funktioiden_testausta.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.joukko_set_testausta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listat_testausta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.looppien_testausta_for_silmukka_range_funktio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.looppien_testausta_while_for_if_ehto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.monikko_tuple_testausta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mysql_connector_testausta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mysql_connector_testausta_connect_to_db_ihmiset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mysql_connector_testausta_connect_to_host.executor&quot;: &quot;Run&quot;,
+    &quot;Python.randint_arpakuutiot_testi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sanakirja_testausta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tietokanta_testausta_ihmiset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tietokanta_testausta_ihmiset_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tietokanta_testausta_ihmiset_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tietokanta_testausta_ihmiset_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tietokanta_testausta_lentokentta_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while_in_while_testaus.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -151,21 +150,8 @@
       <workItem from="1726035781592" duration="889000" />
       <workItem from="1726037122825" duration="809000" />
       <workItem from="1726048432836" duration="7215000" />
-      <workItem from="1726066920020" duration="8716000" />
-    </task>
-    <task id="LOCAL−00058" summary="Fixed heading">
-      <option name="closed" value="true" />
-      <created>1725444438136</created>
-      <option name="number" value="LOCAL−00058" />
-      <option name="presentableId" value="LOCAL−00058" />
-      <updated>1725444438136</updated>
-    </task>
-    <task id="LOCAL−00059" summary="Updated">
-      <option name="closed" value="true" />
-      <created>1725444656956</created>
-      <option name="number" value="LOCAL−00059" />
-      <option name="presentableId" value="LOCAL−00059" />
-      <updated>1725444656956</updated>
+      <workItem from="1726066920020" duration="9301000" />
+      <workItem from="1726077144104" duration="662000" />
     </task>
     <task id="LOCAL−00060" summary="Updated headings">
       <option name="closed" value="true" />
@@ -496,7 +482,21 @@
       <option name="presentableId" value="LOCAL−00106" />
       <updated>1726074982851</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL−00107" summary="Solved">
+      <option name="closed" value="true" />
+      <created>1726076290335</created>
+      <option name="number" value="LOCAL−00107" />
+      <option name="presentableId" value="LOCAL−00107" />
+      <updated>1726076290335</updated>
+    </task>
+    <task id="LOCAL−00108" summary="Solved">
+      <option name="closed" value="true" />
+      <created>1726076361676</created>
+      <option name="number" value="LOCAL−00108" />
+      <option name="presentableId" value="LOCAL−00108" />
+      <updated>1726076361676</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -523,7 +523,6 @@
     <MESSAGE value="Added tavarat function" />
     <MESSAGE value="Fixed heading" />
     <MESSAGE value="Updated headings" />
-    <MESSAGE value="Solved" />
     <MESSAGE value="Updated for statement" />
     <MESSAGE value="Added some test airports" />
     <MESSAGE value="Updated connector db data" />
@@ -539,7 +538,8 @@
     <MESSAGE value="Updated function name typo" />
     <MESSAGE value="Updated typos" />
     <MESSAGE value="New" />
-    <option name="LAST_COMMIT_MESSAGE" value="New" />
+    <MESSAGE value="Solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto1$01_arpakuutiot.coverage" NAME="01_arpakuutiot Coverage Results" MODIFIED="1725362611784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli5" />
@@ -552,7 +552,7 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto1$tietokanta_testausta_ihmiset_2.coverage" NAME="tietokanta_testausta_ihmiset_2 Coverage Results" MODIFIED="1726067037416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_pienin_suurin_luvut.coverage" NAME="03_pienin_suurin_luvut Coverage Results" MODIFIED="1724914427961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli4" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$looppien_testausta_while_for_if_ehto.coverage" NAME="looppien_testausta_while_for_if_ehto Coverage Results" MODIFIED="1725430266748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
-    <SUITE FILE_PATH="coverage/Ohjelmisto1$02_kenttien_lukumaarat.coverage" NAME="02_kenttien_lukumaarat Coverage Results" MODIFIED="1726074502014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli8" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$02_kenttien_lukumaarat.coverage" NAME="02_kenttien_lukumaarat Coverage Results" MODIFIED="1726077199559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli8" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$tietokanta_testausta_lentokentta_2.coverage" NAME="tietokanta_testausta_lentokentta_2 Coverage Results" MODIFIED="1726069069229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$mysql_connector_testausta.coverage" NAME="mysql_connector_testausta Coverage Results" MODIFIED="1726050310616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$mysql_connector_testausta_connect_to_host.coverage" NAME="mysql_connector_testausta_connect_to_host Coverage Results" MODIFIED="1726051930011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
@@ -573,7 +573,7 @@
     <SUITE FILE_PATH="coverage/Ohjelmisto1$04_karkausvuosi.coverage" NAME="04_karkausvuosi Coverage Results" MODIFIED="1724839005266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli3" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$03_gallonat_litroiksi.coverage" NAME="03_gallonat_litroiksi Coverage Results" MODIFIED="1725447643621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$sanakirja_testausta.coverage" NAME="sanakirja_testausta Coverage Results" MODIFIED="1725880708258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />
-    <SUITE FILE_PATH="coverage/Ohjelmisto1$03_lentokenttien_valiset_etaisyydet.coverage" NAME="03_lentokenttien_valiset_etaisyydet Coverage Results" MODIFIED="1726075807913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli8" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto1$03_lentokenttien_valiset_etaisyydet.coverage" NAME="03_lentokenttien_valiset_etaisyydet Coverage Results" MODIFIED="1726076211562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli8" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$05_keskiaikaiset_mitat.coverage" NAME="05_keskiaikaiset_mitat Coverage Results" MODIFIED="1724315893361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli2" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$02_nopan_kaikki_tahkot.coverage" NAME="02_nopan_kaikki_tahkot Coverage Results" MODIFIED="1725446942309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli6" />
     <SUITE FILE_PATH="coverage/Ohjelmisto1$listat_testausta.coverage" NAME="listat_testausta Coverage Results" MODIFIED="1725879872158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testaus" />

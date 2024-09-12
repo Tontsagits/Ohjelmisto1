@@ -33,7 +33,7 @@ db_lentopeli = mysql.connector.connect(
 maatunnus = input('Syötä laskettavien lentokenttien maatunnus: ')
 lentokenttatyypit = laske_lentokenttatyypit_koodilla(maatunnus)
 if lentokenttatyypit is not None:
-    print(f"Maassa {maatunnus} olevat lentokenttatyypit:")
+    print(f"Maassa {maatunnus} olevat lentokenttätyypit:")
     for rivi in lentokenttatyypit:
         print(f"{rivi[1]} {rivi[0]} kpl.")
 else:
