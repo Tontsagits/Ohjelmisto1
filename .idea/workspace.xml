@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Fixed typo in end print">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd2efd33-87c2-4144-b919-a7952d1f0aaf" name="Changes" comment="Fixed typo in end print" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,6 +152,7 @@
       <workItem from="1726077144104" duration="662000" />
       <workItem from="1726121278942" duration="343000" />
       <workItem from="1726144898950" duration="521000" />
+      <workItem from="1726220597466" duration="27000" />
     </task>
     <task id="LOCAL−00061" summary="Updated headings">
       <option name="closed" value="true" />
