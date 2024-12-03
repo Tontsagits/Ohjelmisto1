@@ -97,6 +97,7 @@
     &quot;Python.tietokanta_testausta_lentokentta_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.while_in_while_testaus.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/tonts/PyCharmProjects/Ohjelmisto1&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -111,8 +112,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
+        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
@@ -162,6 +163,9 @@
       <workItem from="1728984599523" duration="42000" />
       <workItem from="1728985038787" duration="7000" />
       <workItem from="1728985635699" duration="18000" />
+      <workItem from="1729766572434" duration="19000" />
+      <workItem from="1732187607754" duration="168000" />
+      <workItem from="1732189950376" duration="77000" />
     </task>
     <task id="LOCAL−00061" summary="Updated headings">
       <option name="closed" value="true" />
